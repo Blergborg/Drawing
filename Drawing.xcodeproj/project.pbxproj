@@ -11,6 +11,7 @@
 		26281D822AB4A95800624076 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26281D812AB4A95800624076 /* ContentView.swift */; };
 		26281D842AB4A95900624076 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 26281D832AB4A95900624076 /* Assets.xcassets */; };
 		26281D872AB4A95900624076 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 26281D862AB4A95900624076 /* Preview Assets.xcassets */; };
+		26281D8E2AB4AD3700624076 /* TrianglePathView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26281D8D2AB4AD3700624076 /* TrianglePathView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		26281D812AB4A95800624076 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		26281D832AB4A95900624076 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		26281D862AB4A95900624076 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		26281D8D2AB4AD3700624076 /* TrianglePathView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrianglePathView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				26281D812AB4A95800624076 /* ContentView.swift */,
 				26281D832AB4A95900624076 /* Assets.xcassets */,
 				26281D852AB4A95900624076 /* Preview Content */,
+				26281D8D2AB4AD3700624076 /* TrianglePathView.swift */,
 			);
 			path = Drawing;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				26281D822AB4A95800624076 /* ContentView.swift in Sources */,
+				26281D8E2AB4AD3700624076 /* TrianglePathView.swift in Sources */,
 				26281D802AB4A95800624076 /* DrawingApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
