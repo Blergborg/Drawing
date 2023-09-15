@@ -14,6 +14,7 @@
 		26281D8E2AB4AD3700624076 /* TrianglePathView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26281D8D2AB4AD3700624076 /* TrianglePathView.swift */; };
 		26281D902AB4AEF300624076 /* MyShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26281D8F2AB4AEF300624076 /* MyShapes.swift */; };
 		26281D922AB4AF3600624076 /* MyShapesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26281D912AB4AF3600624076 /* MyShapesView.swift */; };
+		26281D942AB4C2A500624076 /* StrokeBorderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26281D932AB4C2A500624076 /* StrokeBorderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		26281D8D2AB4AD3700624076 /* TrianglePathView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrianglePathView.swift; sourceTree = "<group>"; };
 		26281D8F2AB4AEF300624076 /* MyShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyShapes.swift; sourceTree = "<group>"; };
 		26281D912AB4AF3600624076 /* MyShapesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyShapesView.swift; sourceTree = "<group>"; };
+		26281D932AB4C2A500624076 /* StrokeBorderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrokeBorderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				26281D8D2AB4AD3700624076 /* TrianglePathView.swift */,
 				26281D8F2AB4AEF300624076 /* MyShapes.swift */,
 				26281D912AB4AF3600624076 /* MyShapesView.swift */,
+				26281D932AB4C2A500624076 /* StrokeBorderView.swift */,
 			);
 			path = Drawing;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 				26281D8E2AB4AD3700624076 /* TrianglePathView.swift in Sources */,
 				26281D802AB4A95800624076 /* DrawingApp.swift in Sources */,
 				26281D922AB4AF3600624076 /* MyShapesView.swift in Sources */,
+				26281D942AB4C2A500624076 /* StrokeBorderView.swift in Sources */,
 				26281D902AB4AEF300624076 /* MyShapes.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
